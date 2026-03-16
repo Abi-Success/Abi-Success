@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Afful Abigail</h1>
-<h3 align="center">A passionate data analysis from Ghana</h3>
+<h1 align="center">Hi👋, I'm Afful Abigail</h1>
+<h3 align="center">A passionate data analysis from Ghana in the University </h3>
 
 - 🌱 I have worked on projects both in school amd Intern companies and have intermediate skills in **python, tableau, and SQL**
 
