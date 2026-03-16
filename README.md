@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Afful Abigail</h1>
 <h3 align="center">A passionate data analysis from Ghana </h3>
 
-- 🌱 I have worked on projects both in school amd Intern companies and have intermediate skills in **python, tableau, and SQL**
+- 🌱 I have worked on projects both in school and Intern companies and have intermediate skills in **python, tableau, and SQL**
 
 - 📫 How to reach me **abigailafful218@gmail.com**
 
